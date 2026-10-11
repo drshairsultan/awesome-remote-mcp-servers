@@ -1074,6 +1074,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Business Verify](https://mbiyepyh.gensparkclaw.com/docs) `https://mbiyepyh.gensparkclaw.com/mcp`
   [![Business Verify MCP connector](https://glama.ai/mcp/connectors/com.gensparkclaw.mbiyepyh/business-verify/badges/score.svg)](https://glama.ai/mcp/connectors/com.gensparkclaw.mbiyepyh/business-verify)
   🔑 - Check a US business's status, formation date and registered agent by name and state; $0.05 a call.
+- [CalcBright](https://calcbright.com/developers) `https://calcbright.com/mcp`
+  [![CalcBright MCP connector](https://glama.ai/mcp/connectors/io.github.drshairsultan/calcbright/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.drshairsultan/calcbright)
+  🔓 - 100+ calculators: mortgage, take-home pay, sales tax/VAT, BMI, dates, units, live currency and gold prices.
 - [Candor Finance](https://candor.money) `https://api.candor.money/mcp`
   [![Candor Finance MCP connector](https://glama.ai/mcp/connectors/money.candor/candor-finance/badges/score.svg)](https://glama.ai/mcp/connectors/money.candor/candor-finance)
   🔐 - Personal-finance workspace: connected accounts, spending, budgets, goals and investments.
